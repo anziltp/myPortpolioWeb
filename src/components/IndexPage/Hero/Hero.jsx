@@ -53,7 +53,7 @@ const Hero = () => {
       <div className="container">
         <div className="content-section">
           <h4 className="greeting">Hello, I'm</h4>
-          <h1 className="name">Mohammed Shamil</h1>
+          <h1 className="name">Anzil TP</h1>
           <h2 className={`position typing-text ${typingComplete ? 'typing-complete' : ''}`}>
             {typedText}
             <span className="cursor"></span>
@@ -73,10 +73,10 @@ const Hero = () => {
           <div className="image-container">
             <div className="shape-bg"></div>
             <div className="image-wrapper">
-              <img src="/Images/shamil-img1.jpg" alt="Mohammed Shamil" />
+              <img src="/Images/Anzil.jpeg" alt="Anzil Tp" />
             </div>
             <div className="experience-badge">
-              <span className="years">1.5</span>
+              <span className="years">0.6</span>
               <span className="text">Years<br/>Experience</span>
             </div>
           </div>

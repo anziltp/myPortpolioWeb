@@ -60,23 +60,45 @@ const About = () => {
           
           <div className="about-content">
             <p className="description">
-              I'm a passionate Software Developer with expertise in building responsive 
-              web applications. With a strong foundation in both frontend and backend 
-              technologies, I create seamless digital experiences that solve real-world problems.
+            I'm a passionate Software Developer specializing in building responsive 
+            mobile applications. With expertise in both frontend and backend technologies, 
+            I craft seamless and efficient digital solutions that address real-world challenges
             </p>
             
             <p className="description">
-              My journey in software development began with a curiosity about how digital 
-              products work. This curiosity evolved into a career where I continuously 
-              learn and apply new technologies to create efficient, scalable, and user-friendly 
-              applications.
+            My journey in software development started with a deep 
+            curiosity about how digital products function. Over time, 
+            this curiosity grew into a career focused on continuously
+             learning and applying new technologies to build efficient, 
+             scalable, and user-friendly applications.
             </p>
             
             <div className="skills-container">
               <h3>My Skills</h3>
               <div className="skills-grid">
                 <div className="skill-item">
-                  <div className="skill-name">React</div>
+                  <div className="skill-name">Dart</div>
+                  <div className="skill-bar">
+                    <div className="skill-level" style={{width: '90%'}}></div>
+                  </div>
+                </div>
+                
+                <div className="skill-item">
+                  <div className="skill-name">Flutter</div>
+                  <div className="skill-bar">
+                    <div className="skill-level" style={{width: '85%'}}></div>
+                  </div>
+                </div>
+                
+                <div className="skill-item">
+                  <div className="skill-name">Firebase</div>
+                  <div className="skill-bar">
+                    <div className="skill-level" style={{width: '80%'}}></div>
+                  </div>
+                </div>
+                
+                <div className="skill-item">
+                  <div className="skill-name">Riverpod</div>
                   <div className="skill-bar">
                     <div className="skill-level" style={{width: '90%'}}></div>
                   </div>
@@ -84,27 +106,6 @@ const About = () => {
                 
                 <div className="skill-item">
                   <div className="skill-name">JavaScript</div>
-                  <div className="skill-bar">
-                    <div className="skill-level" style={{width: '85%'}}></div>
-                  </div>
-                </div>
-                
-                <div className="skill-item">
-                  <div className="skill-name">Node.js</div>
-                  <div className="skill-bar">
-                    <div className="skill-level" style={{width: '80%'}}></div>
-                  </div>
-                </div>
-                
-                <div className="skill-item">
-                  <div className="skill-name">CSS/SCSS</div>
-                  <div className="skill-bar">
-                    <div className="skill-level" style={{width: '90%'}}></div>
-                  </div>
-                </div>
-                
-                <div className="skill-item">
-                  <div className="skill-name">MongoDB</div>
                   <div className="skill-bar">
                     <div className="skill-level" style={{width: '75%'}}></div>
                   </div>

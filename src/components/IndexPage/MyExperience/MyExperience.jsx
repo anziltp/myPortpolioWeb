@@ -43,7 +43,7 @@ const MyExperience = () => {
             </div>
             
             <div className="card-content">
-              <h3 className="job-title">Full Stack Developer</h3>
+              <h3 className="job-title">Flutter Developer</h3>
               <h4 className="company-name">Firstlogic Metalab</h4>
               
               <div className="location">
@@ -57,7 +57,7 @@ const MyExperience = () => {
               <div className="divider"></div>
               
               <div className="job-description">
-                <p>Working as a full stack developer contributing to web application development, feature implementation, and maintaining high-quality code standards.</p>
+                <p>Working as a full stack developer contributing to Mobile application development, feature implementation, and maintaining high-quality code standards.</p>
               </div>
               
               <div className="key-achievements">
@@ -67,19 +67,19 @@ const MyExperience = () => {
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Developing responsive frontends using React and modern JavaScript</span>
+                    <span>Developing responsive frontends using Flutter and modern Dart</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Building robust backend APIs with Node.js and Express</span>
+                    <span>Building robust backend APIs with Dart and Firebase Functions</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Database design and management with MongoDB</span>
+                    <span>Database design and management with Firebase Firestore</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -97,12 +97,12 @@ const MyExperience = () => {
               </div>
               
               <div className="tech-stack">
-                <span>React</span>
-                <span>Node.js</span>
-                <span>MongoDB</span>
-                <span>Express</span>
-                <span>JavaScript</span>
-                <span>Git</span>
+                <span>Dart</span>
+                <span>Flutter</span>
+                <span>Firebase</span>
+                <span>Riverpod</span>
+                <span>Api</span>
+                <span>GitHub</span>
               </div>
             </div>
             
@@ -118,8 +118,8 @@ const MyExperience = () => {
             </div>
             
             <div className="card-content">
-              <h3 className="job-title">MERN Stack Developer Intern</h3>
-              <h4 className="company-name">Synnefo Solutions</h4>
+              <h3 className="job-title">Flutter Developer Intern</h3>
+              <h4 className="company-name">Firstlogic Metalab</h4>
               
               <div className="location">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -132,7 +132,7 @@ const MyExperience = () => {
               <div className="divider"></div>
               
               <div className="job-description">
-                <p>Gained practical experience in MERN stack development while working on real-world projects. Contributed to both frontend and backend development under mentorship.</p>
+                <p>Gained practical experience in Flutter development by working on real-world projects. Contributed to building engaging mobile applications and collaborated with backend teams under expert mentorship.</p>
               </div>
               
               <div className="key-achievements">
@@ -142,25 +142,25 @@ const MyExperience = () => {
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Built UI components using React.js and state management with Redux</span>
+                    <span>Built interactive Flutter UI components and managed state using RiverPod for responsive mobile experiences.</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Developed RESTful APIs with Node.js and Express</span>
+                    <span>Integrated RESTful API in Flutter using Dart's HTTP package.</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Implemented data models and queries with MongoDB</span>
+                    <span>Integrated Firebase backend services.</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                       <polyline points="20 6 9 17 4 12"></polyline>
                     </svg>
-                    <span>Participated in Agile development processes</span>
+                    <span>Participated in Agile development.</span>
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -172,12 +172,12 @@ const MyExperience = () => {
               </div>
               
               <div className="tech-stack">
-                <span>React</span>
-                <span>Redux</span>
-                <span>Node.js</span>
-                <span>MongoDB</span>
-                <span>Express</span>
-                <span>Git</span>
+                <span>Dart</span>
+                <span>Flutter</span>
+                <span>Firebase</span>
+                <span>Riverpod</span>
+                <span>Api</span>
+                <span>GitHub</span>
               </div>
             </div>
             

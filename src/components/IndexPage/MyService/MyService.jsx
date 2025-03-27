@@ -41,20 +41,21 @@ const MyService = () => {
                 <polyline points="8 6 2 12 8 18"></polyline>
               </svg>
             </div>
-            <h3>Web Development</h3>
-            <p>Creating robust, scalable and high-performance web applications using modern technologies and best practices.</p>
+            <h3>App Development</h3>
+            <p>Creating robust, scalable, and high-performance iOS and Android mobile applications using modern technologies and best practices.</p>
             <ul className="service-features">
-              <li>Responsive websites</li>
-              <li>E-commerce solutions</li>
-              <li>Progressive Web Apps</li>
-              <li>Custom CMS development</li>
-              <li>API development & integration</li>
+              <li>Cross-Platform Development</li>
+              <li>High Performance</li>
+              <li>Modern Technologies</li>
+              <li>Security & Data Protection</li>
+              <li>Designing intuitive and engaging interfaces.</li>
             </ul>
             <div className="tech-stack">
-              <span>React</span>
-              <span>Node.js</span>
-              <span>MongoDB</span>
-              <span>Express</span>
+              <span>Dart</span>
+              <span>Flutter</span>
+              <span>Firebase</span>
+              <span>Riverpod</span>
+              <span>Api</span>
             </div>
           </div>
           
@@ -67,13 +68,21 @@ const MyService = () => {
                 <circle cx="11" cy="11" r="2"></circle>
               </svg>
             </div>
-            <h3>UI/UX Designing</h3>
-            <p>Crafting intuitive and engaging user experiences with clean, modern designs that enhance user satisfaction.</p>
+            <h3>Web Development</h3>
+            <p>Creating robust, scalable and high-performance web applications using modern technologies and best practices.</p>
             <ul className="service-features">
-              <li>Interface design</li>
+              <li>Responsive websites</li>
+              <li>E-commerce solutions</li>
+              <li>Progressive Web Apps</li>
+              <li>Custom CMS development</li>
+              <li>API development & integration</li>
             </ul>
             <div className="tech-stack">
-              <span>Figma</span>
+              <span>Dart</span>
+              <span>Flutter</span>
+              <span>Firebase</span>
+              <span>Riverpod</span>
+              <span>Api</span>
            
             </div>
           </div>

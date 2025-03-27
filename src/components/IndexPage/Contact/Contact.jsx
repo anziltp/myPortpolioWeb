@@ -42,7 +42,7 @@ const Contact = () => {
               </svg>
             </div>
             <h3>Email Me</h3>
-            <a href="mailto:shamilmohd418@gmail.com">shamilmohd418@gmail.com</a>
+            <a href="mailto:anziltp902@gmail.com">anziltp902@gmail.com</a>
           </div>
           
           <div className="contact-card phone">
@@ -52,7 +52,7 @@ const Contact = () => {
               </svg>
             </div>
             <h3>Call Me</h3>
-            <a href="tel:+919876543210">+91 9562890504</a>
+            <a href="tel:+916235909801">+91 6235909801</a>
           </div>
           
           <div className="contact-card location">
@@ -70,14 +70,14 @@ const Contact = () => {
         <div className="social-section">
           <h3>Connect With Me</h3>
           <div className="social-links">
-            <a href="https://github.com/shamilbinumer" target="_blank" rel="noopener noreferrer" className="social-link github">
+            <a href="https://github.com/anziltp" target="_blank" rel="noopener noreferrer" className="social-link github">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
               </svg>
               <span>GitHub</span>
             </a>
             
-            <a href="https://www.linkedin.com/in/mohammedshamilkk/" target="_blank" rel="noopener noreferrer" className="social-link linkedin">
+            <a href="https://www.linkedin.com/in/anzil-tp-6191792b6/" target="_blank" rel="noopener noreferrer" className="social-link linkedin">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
                 <rect x="2" y="9" width="4" height="12"></rect>
@@ -93,7 +93,7 @@ const Contact = () => {
               <span>Twitter</span>
             </a> */}
             
-            <a href="https://www.instagram.com/shamil__bin__umer/" target="_blank" rel="noopener noreferrer" className="social-link instagram">
+            <a href="https://www.instagram.com/_anzil_.__/" target="_blank" rel="noopener noreferrer" className="social-link instagram">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
                 <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
@@ -105,7 +105,7 @@ const Contact = () => {
         </div>
         
         <div className="cta-section">
-          <a href="mailto:shamilmohd418@gmail.com" className="cta-button">
+          <a href="mailto:anziltp902@gmail.com" className="cta-button">
             Let's Work Together
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <line x1="5" y1="12" x2="19" y2="12"></line>

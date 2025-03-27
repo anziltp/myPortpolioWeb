@@ -29,7 +29,7 @@ const Navbar = () => {
     <div className={`NavbarMainWrapper ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-container">
         <div className="logo">
-          <h2>MS</h2>
+          <h2>AZ</h2>
         </div>
         
         {/* Desktop menu */}
