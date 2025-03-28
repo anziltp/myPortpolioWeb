@@ -60,7 +60,7 @@ const Hero = () => {
           </h2>
           <p className="description">
             Passionate about creating elegant solutions to complex problems. 
-            Specialized in building modern web applications with clean, 
+            Specialized in building modern mobile applications with clean, 
             efficient code and delightful user experiences.
           </p>
           <div className="cta-buttons">
