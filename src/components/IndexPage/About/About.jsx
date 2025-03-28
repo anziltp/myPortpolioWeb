@@ -110,12 +110,7 @@ const About = () => {
                     <div className="skill-level" style={{width: '75%'}}></div>
                   </div>
                 </div>
-                <div className="skill-item">
-                  <div className="skill-name">Zoom Video Sdk</div>
-                  <div className="skill-bar">
-                    <div className="skill-level" style={{width: '75%'}}></div>
-                  </div>
-                </div>
+                
                 <div className="skill-item">
                   <div className="skill-name">REST API</div>
                   <div className="skill-bar">
