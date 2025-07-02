@@ -9,6 +9,24 @@ const Projects = () => {
   const projectsData = [
     {
       id: 1,
+      title: "Ebotto Learning App",
+      category: ["App", "fullstack"],
+      image: "/Images/projects/WhatsApp Image 2025-07-02 at 11.33.07 AM.jpeg",
+      technologies: ["Dart", "Flutter", "Firebase", "Riverpod"],
+      description: "Ebotto is a modern e-learning app built with Flutter, offering students easy access to courses, study materials, Zoom classes, and learning management tools.",
+     
+    },
+    {
+      id: 2,
+      title: "Eagles",
+      category: ["App", "fullstack"],
+      image: "/Images/projects/WhatsApp Image 2025-07-02 at 11.37.37 AM.jpeg",
+      technologies: ["Dart", "Flutter", "Firebase", "Riverpod"],
+      description: "The Eagles Institute App Suite is a digital platform designed to support academic operations for CA, CMA, and ACCA coaching programs.",
+     
+    },
+    {
+      id: 3,
       title: "Yum Yard",
       category: ["App", "fullstack"],
       image: "/Images/projects/file cover - 1.png",
@@ -17,7 +35,7 @@ const Projects = () => {
       
     },
     {
-      id: 2,
+      id: 4,
       title: "Coffee Shop",
       category: ["App", "fullstack"],
       image: "/Images/projects/coffiee.webp",
@@ -26,7 +44,7 @@ const Projects = () => {
       
     },
     {
-      id: 3,
+      id: 5,
       title: "Car Hub",
       category: ["App", "fullstack"],
       image: "/Images/projects/CAR UI KIT 2022 (1).png",
@@ -34,6 +52,7 @@ const Projects = () => {
       description: "Developed Car Hub, a Flutter-based used car selling app with integrated RESTful APIs and Firebase.",
      
     },
+    
    
   ];
   
