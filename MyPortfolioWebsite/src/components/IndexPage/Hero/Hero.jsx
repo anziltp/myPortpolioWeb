@@ -73,7 +73,7 @@ const Hero = () => {
           <div className="image-container">
             <div className="shape-bg"></div>
             <div className="image-wrapper">
-              <img src="/Images/Anzil.jpeg" alt="Anzil Tp" />
+              <img src="/Images/anzilnew.jpeg" alt="Anzil Tp" />
             </div>
             <div className="experience-badge">
               <span className="years">0.6</span>
