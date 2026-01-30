@@ -9,20 +9,20 @@ const Projects = () => {
   const projectsData = [
     {
       id: 1,
-      title: "Yum Yard",
+      title: "FinalFx",
       category: ["App", "fullstack"],
-      image: "/Images/projects/file cover - 1.png",
+      image: "/Images/projects/FX pos.jpg",
       technologies: ["Flutter", "Dart", "Firebase","Riverpod"],
-      description: "YumYard is a food ordering app .",
+      description: "A product-based billing software solution that helps businesses handle invoicing, billing, and transaction management in a streamlined manner",
       
     },
     {
       id: 2,
-      title: "Coffee Shop",
+      title: "Healine",
       category: ["App", "fullstack"],
-      image: "/Images/projects/coffiee.webp",
-      technologies: ["Dart", "Flutter", "Riverpod", "Firestore", "Api"],
-      description: "Developed a Flutter coffee shop app with integrated RESTful APIs and Firebase.",
+      image: "/Images/projects/healine.png",
+      technologies: ["Dart", "Flutter", "Riverpod", "Api"],
+      description: "Designed and developed a Flutter Dubai medical service application integrated with RESTful APIs and a PHP backend.",
       
     },
     {
